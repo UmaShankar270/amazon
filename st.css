@@ -128,12 +128,13 @@ margin-left:10px;
 }
 .hero-section{
     
-    background-image:url("hero.jpeg");
+    background-image:url("main.jpeg");
 
 display:flex;
 justify-content: center;
 height:360px;
 background-size: cover;
+
 align-items: flex-end;
 
 }
@@ -161,7 +162,7 @@ background-color:#e2e7e6;
 .box{
 height:400px;
 width:23%;
-border:1px solid black;
+border:1px solid white;
 background-color: white;
 padding:20px 0px 15px ;
 margin-top:5px;
